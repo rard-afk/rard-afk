@@ -83,7 +83,7 @@ An operations workspace for purchasing: orders, suppliers, products and reportin
 
 - **Feature-by-feature architecture**: each business area is its own module, so the product can grow without tangling.
 - **Desktop and mobile**: a sidebar layout on desktop and a bottom-navigation layout on phones.
-- **Reports people actually use**: export to Excel and PDF.
+- **Reports that export to Excel and PDF.**
 
 `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Figma Make`
 <br><sub>PRIVATE · CASE STUDY</sub>
@@ -172,4 +172,4 @@ Have a product, a brand or a strange idea that needs both a designer and a devel
 
 **[Message me on LinkedIn →](https://www.linkedin.com/in/rath-chhorm-757109178)**
 
-<sub>Every graphic here was drawn as SVG and set in Instrument Serif &amp; JetBrains Mono. Phnom Penh, Cambodia.</sub>
+<sub>Every graphic here was drawn as SVG and set in Instrument Serif, Inter Tight &amp; JetBrains Mono. Phnom Penh, Cambodia.</sub>
